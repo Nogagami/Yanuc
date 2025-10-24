@@ -1,1 +1,1 @@
-# Yanuc
+Yanuc Properties
